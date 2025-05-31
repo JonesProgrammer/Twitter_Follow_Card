@@ -9,10 +9,6 @@ A simple React project that replicates the look and functionality of a Twitter-s
 - Component-driven architecture using React.
 - Modern development setup with Vite and ESLint.
 
-## Demo
-
-![Demo screenshot](demo-screenshot.png) <!-- Replace with actual screenshot if available -->
-
 ## Getting Started
 
 ### Prerequisites
